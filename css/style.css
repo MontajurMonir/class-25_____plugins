@@ -1,0 +1,53 @@
+/* All Common Css Start  */
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+}
+a,
+a:hover {
+  text-decoration: none;
+  display: inline-block;
+}
+ul,
+ol {
+  list-style-type: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+span,
+p {
+  line-height: 0.8;
+}
+
+/* All Common Css End  */
+
+
+
+/* Header_Part Css Start */
+#nomadanna{
+  padding: 50px 0;
+  background: tomato;
+  height: 900px;
+}
+.imgPart{
+  margin-top: 50px;
+}
+.img{
+  margin-bottom: 10px;
+}
+/* Header_Part Css End */
+
+/* Header_Part Css Start */
+/* Header_Part Css End */
+
+/* Header_Part Css Start */
+/* Header_Part Css End */
+
+/* Header_Part Css Start */
+/* Header_Part Css End */
